@@ -170,10 +170,24 @@ To McPAT δίνει ως αποτελέσματα κάποια ενεργεια�
 
 Στην συνέχεια παρουσιάζονται τα γραφήματα των εκάστοτε benchmark τα οποία δείχνουν τις επιδράσεις που είχαν οι αλλαγές των παραμέτρων του συστήματος στις απώλειες ισχύος του.
 
+#### SPECSJENG
+
 <img src="graphs/specjeng.png" width="700">
+
+#### SPECHMMER
+
 <img src="graphs/spechmmer.png" width="700">
+
+#### SPECLIBM.
+
 <img src="graphs/speclibm.png" width="700">
+
+#### SPECBZIP.
+
 <img src="graphs/specbzip.png" width="700">
+
+#### SPECMCF.
+
 <img src="graphs/specmcf.png" width="700">
 
 
