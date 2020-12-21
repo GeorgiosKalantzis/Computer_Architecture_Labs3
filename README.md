@@ -188,5 +188,7 @@ To McPAT δίνει ως αποτελέσματα κάποια ενεργεια�
 * Ακόμη η παρουσία **Static/Dynamic IR Drop** λόγω παρασιτικών χωρητικοτήτων μπορεί να επηρεάσει την τάση τροφοδοσίας η οποία, όπως είδαμε παραπάνω, επηρεάζει αρκετά τις απώελειες ισχύος.
 
 
+### Βιβλιογραφία
 
+1. [McPAT: An Integrated Power, Area, and Timing Modeling Framework for Multicore and Manycore Architectures](https://www.hpl.hp.com/research/mcpat/micro09.pdf)
 
