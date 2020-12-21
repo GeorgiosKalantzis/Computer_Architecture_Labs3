@@ -190,5 +190,10 @@ To McPAT δίνει ως αποτελέσματα κάποια ενεργεια�
 
 ### Βιβλιογραφία
 
-1. [McPAT: An Integrated Power, Area, and Timing Modeling Framework for Multicore and Manycore Architectures](https://www.hpl.hp.com/research/mcpat/micro09.pdf)
 
+1. [McPAT: An Integrated Power, Area, and Timing Modeling Framework for Multicore and Manycore Architectures](https://www.hpl.hp.com/research/mcpat/micro09.pdf)
+2. [Quantifying Sources of Error in McPAT and Potential Impacts on Architectural Studies](https://www.samxi.org/papers/xi_hpca2015.pdf)
+3. [Full-System Simulation of big.LITTLE Multicore Architecture for Performance and Energy Exploration](https://ieeexplore.ieee.org/document/7774439)
+4. [Power models for multicore processor simulators with multiple levels of abstraction](https://upcommons.upc.edu/bitstream/handle/2117/77219/108862.pdf?sequence=1&isAllowed=y)
+5. [Low Power Design in VLSI](http://leda.elfak.ni.ac.rs/education/projektovanjeVLSI/predavanja/10%20Low%20Power%20Design%20in%20VLSI.pdf)
+6. [UNIT-1 Fundamentals of Low Power VLSI Design](http://www.gvpcew.ac.in/LN-CSE-IT-22-32/ECE/4-Year/LowPower-VLSI-Unit1.pdf)
